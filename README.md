@@ -1,2 +1,2 @@
 # static_resource
-该部分存放静态资源
+静态资源
